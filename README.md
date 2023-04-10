@@ -1,5 +1,7 @@
 # Kaggle-completition-project
 
+![portada](https://github.com/paulabnbh/Kaggle-completition-project/blob/main/img/salary-img.jpg)
+
 #### GOAL
 The goal of this project is to create the most accurate prediction of data jobs salaries through Machine Learning models in a Kaggle competition. The documentation given for the competition is:
 + a csv file with features of different jobs and its salaries.
